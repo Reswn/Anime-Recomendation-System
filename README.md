@@ -616,7 +616,7 @@ Tiga model pembelajaran mesin diuji coba untuk memprediksi skor anime berdasarka
 
 ### 3.1 **Bar Chart: RMSE per Model**
 
-![RMSE](https://github.com/Reswn/Anime-Recomendation-System/blob/main/src/Metriks%20Evaluasi.png?raw=true)
+![RMSE](https://github.com/Reswn/Anime-Recomendation-System/blob/main/src/RMSE.png?raw=true)
 
 #### Insight:
 - Random Forest memiliki RMSE terkecil → kesalahan prediksi terendah.
@@ -626,7 +626,7 @@ Tiga model pembelajaran mesin diuji coba untuk memprediksi skor anime berdasarka
 
 ### 3.2 **Bar Chart: R² Score per Model**
 
-![R2](https://github.com/Reswn/Anime-Recomendation-System/blob/main/src/R2%20Score.png?raw=true)
+![R2](https://github.com/Reswn/Anime-Recomendation-System/blob/main/src/R2.png?raw=true)
 
 #### Insight:
 - R² score Random Forest mendekati 1 → model ini mampu menjelaskan hampir seluruh variasi data.
