@@ -627,7 +627,7 @@ Tiga model pembelajaran mesin diuji coba untuk memprediksi skor anime berdasarka
 ### 3.2 **Bar Chart: R² Score per Model**
 
 ![R2](https://github.com/Reswn/Anime-Recomendation-System/blob/main/src/R2%20Score.png?raw=true)
-https://github.com/Reswn/Anime-Recomendation-System/blob/main/src/R2%20Score.png
+
 #### Insight:
 - R² score Random Forest mendekati 1 → model ini mampu menjelaskan hampir seluruh variasi data.
 - Hal ini membuktikan bahwa Random Forest sangat layak digunakan dalam sistem rekomendasi.
