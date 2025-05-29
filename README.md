@@ -165,7 +165,7 @@ Tidak ada target eksplisit seperti dalam kasus regresi atau klasifikasi, karena 
 
 Salah satu aspek penting dalam analisis dataset anime adalah memahami distribusi genre yang paling umum di antara judul-judul anime. Berikut adalah visualisasi frekuensi genre anime teratas berdasarkan dataset:
 
-![Top 15 Anime Genres](https://github.com/Reswn/Anime-Recomendation-System/blob/main/src/Top%2015%20Anime%20Genre.png)
+![Top 15 Anime Genres](https://github.com/Reswn/Anime-Recomendation-System/blob/main/src/Top%2015%20Anime%20Genre.png?raw=true)
 
 #### Insight Utama:
 - **Genre Terpopuler**: Genre `Comedy` memiliki frekuensi tertinggi dengan lebih dari 7.000 entri, menjadikannya genre anime paling banyak digunakan dalam dataset.
@@ -174,21 +174,21 @@ Salah satu aspek penting dalam analisis dataset anime adalah memahami distribusi
 - **Genre Minor**: Beberapa genre seperti `Sports`, `Avant Garde`, dan `Ecchi` memiliki frekuensi yang lebih rendah, menunjukkan bahwa mereka kurang umum dibandingkan genre utama.
 
 #### 4.2 Analisis Popularitas
-![Populer](https://github.com/Reswn/Anime-Recomendation-System/blob/main/src/Anime%20populer.png)
+![Populer](https://github.com/Reswn/Anime-Recomendation-System/blob/main/src/Anime%20populer.png?raw=true)
 #### Insight Utama:
 - **Shingeki no Kyojin** menjadi anime paling populer dengan `Popularity = 1`.
 - Genre utama dari anime-anime ini umumnya adalah **Action**, **Adventure**, dan **Fantasy**, menunjukkan bahwa genre tersebut sangat diminati oleh komunitas MyAnimeList.
 - Beberapa judul legendaris seperti **Naruto** dan **Death Note** masih memiliki posisi tinggi meskipun sudah lama dirilis, membuktikan daya tarik jangka panjang dari anime berkualitas tinggi.
 
 #### 4.3 Analisis Top 10 Anime dengan Rank Tertinggi
-![Top 10 Anime Rank](https://github.com/Reswn/Anime-Recomendation-System/blob/main/src/anime%20rating%20highest.png)
+![Top 10 Anime Rank](https://github.com/Reswn/Anime-Recomendation-System/blob/main/src/anime%20rating%20highest.png?raw=true)
 #### Insight Utama:
 - **Fullmetal Alchemist: Brotherhood** menduduki peringkat pertama dengan skor rata-rata hampir sempurna (>9.15), menjadikannya salah satu anime paling dikagumi di komunitas.
 - Serial **Gintama** muncul dalam beberapa versi, menunjukkan bahwa franchise ini tidak hanya populer tetapi juga konsisten menghasilkan kualitas cerita yang baik.
 - **Hunter x Hunter (2011)** berada di peringkat 10, meskipun sering dianggap sebagai salah satu anime dengan cerita paling kompleks dan strategis.
 
 #### 4.4 Distribusi Data Popularity vs Rank
-![Plot Popularity vs Rank](https://github.com/Reswn/Anime-Recomendation-System/blob/main/src/popularity%20vs%20rank.png)
+![Plot Popularity vs Rank](https://github.com/Reswn/Anime-Recomendation-System/blob/main/src/popularity%20vs%20rank.png?raw=true)
 
 ##### Insight Utama dari Scatter Plot Popularity vs. Rank
 
@@ -616,7 +616,7 @@ Tiga model pembelajaran mesin diuji coba untuk memprediksi skor anime berdasarka
 
 ### 3.1 **Bar Chart: RMSE per Model**
 
-![RMSE per Model](https://github.com/Reswn/Anime-Recomendation-System/blob/main/src/Metriks%20Evaluasi.png)
+![RMSE](https://github.com/Reswn/Anime-Recomendation-System/blob/main/src/Metriks%20Evaluasi.png?raw=true)
 
 #### Insight:
 - Random Forest memiliki RMSE terkecil → kesalahan prediksi terendah.
@@ -626,8 +626,8 @@ Tiga model pembelajaran mesin diuji coba untuk memprediksi skor anime berdasarka
 
 ### 3.2 **Bar Chart: R² Score per Model**
 
-![R² Score per Model](https://github.com/Reswn/Anime-Recomendation-System/blob/main/src/R2%20Score.png)
-
+![R2](https://github.com/Reswn/Anime-Recomendation-System/blob/main/src/R2%20Score.png?raw=true)
+https://github.com/Reswn/Anime-Recomendation-System/blob/main/src/R2%20Score.png
 #### Insight:
 - R² score Random Forest mendekati 1 → model ini mampu menjelaskan hampir seluruh variasi data.
 - Hal ini membuktikan bahwa Random Forest sangat layak digunakan dalam sistem rekomendasi.
