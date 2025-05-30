@@ -650,7 +650,7 @@ Meskipun belum melibatkan data interaksi pengguna, sistem ini sudah cukup kuat u
 
 ### Referensi
 
-[5] J.M. Ph.D dan E. Kavlakoglu, "Content-based filtering," IBM, 2024. [Online]. Available: https://www.ibm.com/think/topics/content-based-filtering
+[1] J.M. Ph.D dan E. Kavlakoglu, "Content-based filtering," IBM, 2024. [Online]. Available: https://www.ibm.com/think/topics/content-based-filtering
 
 [2] GeeksforGeeks, "K-Nearest Neighbor(KNN) Algorithm," 2017. [Online]. Available: https://www.geeksforgeeks.org/k-nearest-neighbours/
 
